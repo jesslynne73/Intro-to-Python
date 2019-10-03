@@ -1,5 +1,5 @@
-# In this project, we will be rewriting Assignment 9 to include popular name functions. Now that we have learned about functions in lecture, we know that this can help simplify our code.
 # Author: Jessica Strait, CMPSC 131
+# This project completes the same name popularity task, but utilizes a function.
 
 # Let's begin by assigning some variables to the two name files we will be using, just to make our work a little bit easier.
 
