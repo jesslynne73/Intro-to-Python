@@ -1,5 +1,5 @@
-# In this assignment, we will allow the user to input information that will create turtle graphics.
-# Author: Jessica Strait, CMPSC 131
+# Author: Jessica Strait
+# This project implements turtle graphics to draw and color a polygon- with a turtle shaped cursor.
 
 # Let's begin by importing the two modules we will need: turtle graphics and random for the randint function.
 import turtle
