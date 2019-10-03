@@ -1,8 +1,7 @@
 # Author: Jessica Strait
-# This project converts Celsius to Fahrenheit temperatures.
+# This project converts Celsius to Fahrenheit temperatures as a table.
 
-# First, our program will prompt the user to input how many temperatures should be displayed. We will assign this value
-# variable n as an integer.
+# First, our program will prompt the user to input how many temperatures should be displayed. 
 
 n = int(input("Enter the number of Celsius temperatures to be displayed."))
 
