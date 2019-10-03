@@ -1,8 +1,5 @@
-# This program will print a certain number of random numbers to a text file. The program will prompt the user to provide
-# how many random numbers they would like to print to the text file.
-# Author: Jessica Strait, CMPSC 131 Sec 001
-
-# First, we learned from the assignment introduction that we should import "random" to create a random number generator.
+# Author: Jessica Strait
+# This project prints random numbers to a text file.
 
 import random
 
