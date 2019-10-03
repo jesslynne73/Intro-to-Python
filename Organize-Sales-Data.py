@@ -1,6 +1,5 @@
 # Author: Jessica Strait
-# This project creates and organizes sales data from a file as a table.
-
+# This project reads and organizes sales data from a file as a comprehensive table.
 
 # In our first function, we get to do the following things: open our file and read it; create empty lists for the ID
 # numbers and sales data; and create a while loop to add all of our IDs and finish the empty sales list.
