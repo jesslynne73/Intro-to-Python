@@ -1,6 +1,5 @@
-# This program will open our random.txt file from Assignment 6, read the numbers generated on that file, find the total
-# of those numbers, and tell how many individual numbers were on that file.
-# Author: Jessica Strait, CMPSC 131 Sec 001
+# Author: Jessica Strait
+# This project reads a random number text file created from my own text file generating code.
 
 # First, we will tell the program to open the random.txt file. We will also tell is to read the first line of the file.
 
