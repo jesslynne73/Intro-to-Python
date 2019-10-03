@@ -1,5 +1,5 @@
-# In this final project, we are creating, organizing, and seeking data from lists about sales data.
-# Author: Jessica Strait, CMPSC 131
+# Author: Jessica Strait
+# This project creates and organizes sales data from a file as a table.
 
 
 # In our first function, we get to do the following things: open our file and read it; create empty lists for the ID
