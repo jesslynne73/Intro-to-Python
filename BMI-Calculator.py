@@ -1,7 +1,5 @@
-# We are creating a BMI calculator for the user, upon the input of their height and weight.
-# The program will then tell the user if they are overweight, underweight, or optimal weight
-# based on the calculated BMI.
-# Author: Jessica Strait, CMPSC 131 Sec 001
+# Author: Jessica Strait
+# This project determines BMI based on height and weight input from the user.
 
 # First, the program will prompt the user to enter their weight.
 
