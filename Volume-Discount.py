@@ -1,6 +1,5 @@
-# We are going to develop a program that will assist customers in determining the overall cost of a purchase,
-# while accounting for a volume discount offered by the manufacturer.
-# Author: Jessica Strait, CMPSC 131, Sec 001
+# Author: Jessica Strait
+# This project provides customers with the price of a software purchase while accounting for a volume discount.
 
 # First, the program will ask the user the number of software packages that they have purchased.
 
