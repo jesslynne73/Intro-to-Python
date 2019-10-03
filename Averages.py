@@ -1,7 +1,5 @@
-# In this project, we will create a program that allows the user to input positive test grades to determine their
-# overall average. We must ensure that the values given by the user are appropriate for the task,
-# in that they are non-negative.
-# Author: Jessica Strait, CMPSC 131 Sec 001
+# Author: Jessica Strait
+# This project computes an overall average from test scores.
 
 # First, we will prompt the user to begin entering their scores. I will assign this phrase a variable
 # to simplify future lines of code. We will also assign variables for the total numerical value of the scores given as
@@ -20,8 +18,6 @@ while 0 <= score:
     total = total + float(score)
     score = int(input(message))
 
-# For our else statement, we will need to include the calculations for determining the average through the variables
-# that we have created. We also must format the answer to only include one decimal place.
+# Once a negative number is the input, we can compute the average. We also must format the answer to only include one decimal place.
 
-else:
-    print("The average of your scores is", format(float(total)/float(scores_given), ".1f"))
+print("The average of your scores is", format(float(total)/float(scores_given), ".1f"))
