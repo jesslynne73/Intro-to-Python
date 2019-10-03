@@ -1,5 +1,5 @@
-# In this project, we will recreate the windchill calculator with a GUI. We must use labels, entries, and color our title also.
-# Author: Jessica Strait, CMPSC 131
+# Author: Jessica Strait
+# This project creates a windchill calculator using GUI methods.
 
 #Let's begin by importing the tkinter module. Next, we will establish our class and start defining our method.
 import tkinter
