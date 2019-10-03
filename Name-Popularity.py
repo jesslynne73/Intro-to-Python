@@ -1,6 +1,9 @@
-# Author: Jessica Strait, CMPSC 131 Sec 001
-# Our program will find a name's popularity based on a list derived from a file. First, let's open up the girls' file that we were given and get ready to read. We can create a list using a
-# "while" loop. We use "rstrip" to remove the new line symbol. Once all names are on our list, close the file. We can repeat the same process to create a list from the boys' file.
+# Author: Jessica Strait
+# This project reads a list of names and their popularity. It takes a name as input and interprets its popularity from this file.
+# Our program will find a name's popularity based on a list derived from a file. 
+
+#First, open up the girls' name file and get ready to read. We can create a list using a "while" loop. 
+#We use "rstrip" to remove the new line symbol. Once all names are on our list, close the file.
 
 girls = open(r'C:\users\jessl\Desktop\GirlNames.txt', 'r')
 girlName = girls.readline()
@@ -12,6 +15,8 @@ while girlName != "":
     girlName = girls.readline()
 
 girls.close()
+
+# We can repeat the same process to create a list from the boys' file.
 
 boys = open(r'C:\users\jessl\Desktop\BoyNames.txt', 'r')
 boyName = boys.readline()
