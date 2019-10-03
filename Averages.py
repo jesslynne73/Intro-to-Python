@@ -1,9 +1,7 @@
 # Author: Jessica Strait
-# This project computes an overall average from test scores.
+# This project computes an average from given test scores.
 
-# First, we will prompt the user to begin entering their scores. I will assign this phrase a variable
-# to simplify future lines of code. We will also assign variables for the total numerical value of the scores given as
-# well as for the number of inputs provided.
+# First, we will prompt the user to begin entering their scores.
 
 message = "Enter a test score, or enter a negative number to receive your average."
 score = int(input(message))
