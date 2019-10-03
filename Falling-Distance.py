@@ -1,7 +1,5 @@
-# In this project, we will be using a function to calculate how far an object falls at a certain number of seconds given
-# by the user. Our function will not account for mass, but we will include the gravity value of 9.8. Our general
-# function is distance = 1/2*gravity*time**2
-# Author: Jessica Strait, CMPSC 131 Sec 001
+# Author: Jessica Strait
+# This project calculates how far an object falls based on time and the force of gravity.
 
 # First things first, let's go ahead and define the gravity constant.
 
