@@ -1,6 +1,5 @@
-# This program will serve as a conversion table for Celsius to Fahrenheit temperatures. The user will input a
-# value of temperatures to be displayed, and the program will use the conversion formula to display the table.
-# Author: Jessica Strait, CMPSC 131 Sec 001
+# Author: Jessica Strait
+# This project converts Celsius to Fahrenheit temperatures.
 
 # First, our program will prompt the user to input how many temperatures should be displayed. We will assign this value
 # variable n as an integer.
